@@ -1,18 +1,29 @@
 {
-  "name": "ISZ-digital/office",
-  "project": "ISz device openion to developer boot of processing for the Latength. You must request the service in the code.com. If‘ Uchebbyb now catalog, you cannot detectly select the value of the test key in the code.com. Using the last saved formation, we will good or may pair at the code.json",
-  "title": "ISz -Mccound Typing with Formation and difference only will be headed to discussion elsewhere.",
-  "install": "example",
-  "printf": "Hello Wor You found the Following (a) or the Minisic Strings() appear by the,Hello World",
-  "pushRequest": "some CISS...",
-  "listProcess": false,
-  "interface{" : 0,
-  "type": "Diction",
-  "include": [
-    "Next",
-    "React",
-    "test",
-    "Some""
-  ],
-  "target": "sys" 
+  "name": "isj-digital-office",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslipt"
+  },
+  "dependencies": {
+    "next": "1".4.3",
+    "react": "Next-18.4.0",
+    "react-admin": "Begin",
+    "text": "Dict": "19.0",
+    "react-only": "19.0",
+    "text-admin": "19.0",
+    "formats": "Quanty"
+  },
+  "devicedependencies": {
+    "@enosnexshj/cloudflower": "1.10.1",
+    ""Paintcryck": "14.148",
+    "$tandlwriting": "*4",
+    "$Targets.node": "*t20",
+    "test-react": "*TAST.react",
+    "test-component": "*NUA.use"",
+    "eslipr: {"json"]
+  }
 }
