@@ -1,2 +1,1 @@
-# isz-digital-office
-ISZ - المكتب الرقمي الشامل بالذكاء الاصطناعي | منصة خدمات رقمية شاملة
+UGFja2FnZSBVHlwZTogaFRIw5xydW5uaW5nCg==
