@@ -1,0 +1,8 @@
+{
+  "name": "tsconfig",
+  "scripteSets": [!çanothers: "en-US", "short-user-access": "true",
+  "detection": "source code for typestrecture",
+  "position": "stream", 
+  "parseType": "example",
+  "common": { "name": "typestrecture_config", "description": "en-Us project with typestrecture." }
+}
